@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2af7385-00e8-4461-b99c-2abd644ea06b" name="Changes" comment="" />
+    <list default="true" id="f2af7385-00e8-4461-b99c-2abd644ea06b" name="Changes" comment="hallo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,10 +47,32 @@
       <updated>1712659619765</updated>
       <workItem from="1712659621117" duration="20000" />
       <workItem from="1712659826838" duration="238000" />
+      <workItem from="1712660127009" duration="80000" />
     </task>
+    <task id="LOCAL-00001" summary="hallo">
+      <option name="closed" value="true" />
+      <created>1712660157398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712660157398</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hallo">
+      <option name="closed" value="true" />
+      <created>1712660188748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712660188748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hallo" />
+    <option name="LAST_COMMIT_MESSAGE" value="hallo" />
   </component>
 </project>
